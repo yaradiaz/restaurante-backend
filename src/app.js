@@ -1,4 +1,6 @@
+// Importamos Express para crear la aplicación del servidor
 const express = require("express");
+// Importamos CORS para permitir solicitudes desde otros dominios
 const cors = require("cors");
 
 const app = express();
