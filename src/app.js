@@ -17,5 +17,5 @@ app.use("/api/inventario", require("./routes/inventario")); //Ruta inventario
 // app.use("/api/auth", require("./routes/auth"));
 
 
-// Exportamos la aplicación para que pueda ser utilizada en otros archivos
+// Exportamos la aplicación para que pueda ser utilizada en otros archivos 
 module.exports = app;
